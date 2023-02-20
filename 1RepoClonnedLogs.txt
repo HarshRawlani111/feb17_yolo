@@ -1,0 +1,87 @@
+2023-02-19/23:47:11		Starting to clone Repo
+2023-02-19/23:47:50		Repo clonned
+2023-02-19/23:53:36		Starting to clone Repo
+2023-02-19/23:53:36		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:16:18		Starting to clone Repo
+2023-02-20/00:16:18		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:24:07		Starting to clone Repo
+2023-02-20/00:24:07		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:31:58		Starting to clone Repo
+2023-02-20/00:31:58		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:34:51		Starting to clone Repo
+2023-02-20/00:34:52		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:43:55		Starting to clone Repo
+2023-02-20/00:43:56		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:51:00		Starting to clone Repo
+2023-02-20/00:51:01		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:55:13		Starting to clone Repo
+2023-02-20/00:55:13		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/00:59:32		Starting to clone Repo
+2023-02-20/00:59:33		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/01:03:55		Starting to clone Repo
+2023-02-20/01:04:02		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/01:11:34		Starting to clone Repo
+2023-02-20/01:11:35		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/12:23:09		Starting to clone Repo
+2023-02-20/12:23:16		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/12:34:03		Starting to clone Repo
+2023-02-20/12:34:04		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/12:37:16		Starting to clone Repo
+2023-02-20/12:37:16		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/13:01:25		Starting to clone Repo
+2023-02-20/13:01:25		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/13:08:59		Starting to clone Repo
+2023-02-20/13:09:01		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'
+2023-02-20/13:53:30		Starting to clone Repo
+2023-02-20/13:53:31		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git 1yolo_files
+  stderr: 'fatal: destination path '1yolo_files' already exists and is not an empty directory.
+'

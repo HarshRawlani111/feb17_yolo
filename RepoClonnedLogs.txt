@@ -1,0 +1,70 @@
+2023-02-19/20:44:05		Starting to clone Repo
+2023-02-19/20:44:08		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/20:49:38		Starting to clone Repo
+2023-02-19/20:49:47		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/20:54:18		Starting to clone Repo
+2023-02-19/20:54:24		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/21:01:43		Starting to clone Repo
+2023-02-19/21:01:47		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/21:23:07		Starting to clone Repo
+2023-02-19/21:23:11		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/21:33:48		Starting to clone Repo
+2023-02-19/21:33:50		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/21:43:24		Starting to clone Repo
+2023-02-19/21:43:25		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/22:06:04		Starting to clone Repo
+2023-02-19/22:06:05		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/22:30:06		Starting to clone Repo
+2023-02-19/22:30:08		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/23:07:06		Starting to clone Repo
+2023-02-19/23:07:08		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-19/23:14:20		Starting to clone Repo
+2023-02-19/23:14:30		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-20/14:44:55		Starting to clone Repo
+2023-02-20/14:45:06		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-20/14:59:53		Starting to clone Repo
+2023-02-20/14:59:55		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'
+2023-02-20/15:03:29		Starting to clone Repo
+2023-02-20/15:03:32		unable to clone repo: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://github.com/arunponnusamy/object-detection-opencv.git E:\DataScience_dumps\Data Science\feb17_yolo
+  stderr: 'fatal: destination path 'E:\DataScience_dumps\Data Science\feb17_yolo' already exists and is not an empty directory.
+'

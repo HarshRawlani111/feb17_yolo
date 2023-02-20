@@ -1,0 +1,9 @@
+#we use command docker-compose build to run docker-compose.yml file first which will will inturn run dockerfile
+version: "3"
+services:
+  feb17_yolo-uplink:
+    restart: always
+    container_name: feb17_yolo-uplink
+    image: feb17_yolo-uplink
+    build:
+      context: .

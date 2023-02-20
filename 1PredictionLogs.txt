@@ -1,0 +1,263 @@
+2023-02-19/23:53:40		Starting Prediction
+2023-02-19/23:53:40		loading image
+2023-02-19/23:53:40		reading classes
+2023-02-19/23:53:40		generating classes
+2023-02-19/23:53:40		read pre-trained model and config file
+2023-02-19/23:53:43		create input blob
+2023-02-19/23:53:44		created  blob
+2023-02-19/23:53:44		set input blob for the network
+2023-02-19/23:53:44		get the output layer names 
+2023-02-19/23:53:44		running inference through the network and and gathering predictions from output layers 
+2023-02-19/23:53:45		Error Occured Unknown C++ exception from OpenCV code
+2023-02-19/23:53:45		apply non-max suppression
+2023-02-19/23:53:45		Error Occured 'prediction' object has no attribute 'boxes'
+2023-02-20/00:16:23		Starting Prediction
+2023-02-20/00:16:23		loading image
+2023-02-20/00:16:23		reading classes
+2023-02-20/00:16:23		generating classes
+2023-02-20/00:16:23		read pre-trained model and config file
+2023-02-20/00:16:26		create input blob
+2023-02-20/00:16:26		created  blob
+2023-02-20/00:16:26		set input blob for the network
+2023-02-20/00:16:26		get the output layer names 
+2023-02-20/00:16:26		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:16:27		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:16:27		apply non-max suppression
+2023-02-20/00:16:27		Error Occured 'prediction' object has no attribute 'boxes'
+2023-02-20/00:24:11		Starting Prediction
+2023-02-20/00:24:09		Starting Prediction
+2023-02-20/00:24:09		loading image
+2023-02-20/00:24:09		reading classes
+2023-02-20/00:24:09		generating classes
+2023-02-20/00:24:09		read pre-trained model and config file
+2023-02-20/00:24:11		create input blob
+2023-02-20/00:24:11		created  blob
+2023-02-20/00:24:11		set input blob for the network
+2023-02-20/00:24:11		get the output layer names 
+2023-02-20/00:24:11		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:24:11		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:24:11		apply non-max suppression
+2023-02-20/00:24:11		Error Occured 'function' object has no attribute 'boxes'
+2023-02-20/00:32:03		Starting Prediction
+2023-02-20/00:32:01		Starting Prediction
+2023-02-20/00:32:01		loading image
+2023-02-20/00:32:01		reading classes
+2023-02-20/00:32:01		generating classes
+2023-02-20/00:32:01		read pre-trained model and config file
+2023-02-20/00:32:02		create input blob
+2023-02-20/00:32:02		created  blob
+2023-02-20/00:32:02		set input blob for the network
+2023-02-20/00:32:02		get the output layer names 
+2023-02-20/00:32:02		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:32:03		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:32:03		apply non-max suppression
+2023-02-20/00:32:03		Error Occured 'function' object has no attribute 'boxes'
+2023-02-20/00:34:57		Starting Prediction
+2023-02-20/00:34:57		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:34:57		Error Occured 'prediction' object has no attribute 'net'
+2023-02-20/00:34:54		Starting Prediction
+2023-02-20/00:34:54		loading image
+2023-02-20/00:34:54		reading classes
+2023-02-20/00:34:54		generating classes
+2023-02-20/00:34:54		read pre-trained model and config file
+2023-02-20/00:34:56		create input blob
+2023-02-20/00:34:56		created  blob
+2023-02-20/00:34:56		set input blob for the network
+2023-02-20/00:34:56		get the output layer names 
+2023-02-20/00:34:56		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:34:57		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:34:57		apply non-max suppression
+2023-02-20/00:34:57		Error Occured 'NoneType' object has no attribute 'boxes'
+2023-02-20/00:43:58		Starting Prediction
+2023-02-20/00:43:58		loading image
+2023-02-20/00:43:58		reading classes
+2023-02-20/00:43:58		generating classes
+2023-02-20/00:43:58		read pre-trained model and config file
+2023-02-20/00:43:59		create input blob
+2023-02-20/00:43:59		created  blob
+2023-02-20/00:43:59		set input blob for the network
+2023-02-20/00:43:59		get the output layer names 
+2023-02-20/00:43:59		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:44:00		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:51:05		Starting Prediction
+2023-02-20/00:51:03		Starting Prediction
+2023-02-20/00:51:03		loading image
+2023-02-20/00:51:03		reading classes
+2023-02-20/00:51:03		generating classes
+2023-02-20/00:51:03		read pre-trained model and config file
+2023-02-20/00:51:04		create input blob
+2023-02-20/00:51:04		created  blob
+2023-02-20/00:51:04		set input blob for the network
+2023-02-20/00:51:04		get the output layer names 
+2023-02-20/00:51:04		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:51:05		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:51:05		apply non-max suppression
+2023-02-20/00:51:05		Error Occured 'prediction' object has no attribute 'conf_threshold'
+2023-02-20/00:55:17		Starting Prediction
+2023-02-20/00:55:15		Starting Prediction
+2023-02-20/00:55:15		loading image
+2023-02-20/00:55:15		reading classes
+2023-02-20/00:55:15		generating classes
+2023-02-20/00:55:15		read pre-trained model and config file
+2023-02-20/00:55:16		create input blob
+2023-02-20/00:55:16		created  blob
+2023-02-20/00:55:16		set input blob for the network
+2023-02-20/00:55:16		get the output layer names 
+2023-02-20/00:55:16		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:55:17		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:55:17		apply non-max suppression
+2023-02-20/00:55:17		running on each index
+2023-02-20/00:59:36		Starting Prediction
+2023-02-20/00:59:34		Starting Prediction
+2023-02-20/00:59:34		loading image
+2023-02-20/00:59:34		reading classes
+2023-02-20/00:59:34		generating classes
+2023-02-20/00:59:34		read pre-trained model and config file
+2023-02-20/00:59:35		create input blob
+2023-02-20/00:59:35		created  blob
+2023-02-20/00:59:35		set input blob for the network
+2023-02-20/00:59:35		get the output layer names 
+2023-02-20/00:59:35		running inference through the network and and gathering predictions from output layers 
+2023-02-20/00:59:36		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/00:59:36		apply non-max suppression
+2023-02-20/00:59:36		running on each index
+2023-02-20/00:59:36		object-detection.jpg created
+2023-02-20/01:04:41		Starting Prediction
+2023-02-20/01:04:06		Starting Prediction
+2023-02-20/01:04:06		loading image
+2023-02-20/01:04:06		reading classes
+2023-02-20/01:04:06		generating classes
+2023-02-20/01:04:06		read pre-trained model and config file
+2023-02-20/01:04:40		create input blob
+2023-02-20/01:04:40		created  blob
+2023-02-20/01:04:40		set input blob for the network
+2023-02-20/01:04:40		get the output layer names 
+2023-02-20/01:04:40		running inference through the network and and gathering predictions from output layers 
+2023-02-20/01:04:41		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/01:04:41		apply non-max suppression
+2023-02-20/01:04:41		running on each index
+2023-02-20/01:04:41		object-detection.jpg created
+2023-02-20/01:11:41		Starting Prediction
+2023-02-20/01:11:38		Starting Prediction
+2023-02-20/01:11:38		loading image
+2023-02-20/01:11:38		reading classes
+2023-02-20/01:11:38		generating classes
+2023-02-20/01:11:38		read pre-trained model and config file
+2023-02-20/01:11:40		create input blob
+2023-02-20/01:11:40		created  blob
+2023-02-20/01:11:40		set input blob for the network
+2023-02-20/01:11:40		get the output layer names 
+2023-02-20/01:11:40		running inference through the network and and gathering predictions from output layers 
+2023-02-20/01:11:41		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/01:11:41		apply non-max suppression
+2023-02-20/01:11:41		running on each index
+2023-02-20/01:11:41		object-detection.jpg created
+2023-02-20/12:24:04		Starting Prediction
+2023-02-20/12:23:40		Starting Prediction
+2023-02-20/12:23:40		loading image
+2023-02-20/12:23:41		reading classes
+2023-02-20/12:23:41		generating classes
+2023-02-20/12:23:41		read pre-trained model and config file
+2023-02-20/12:24:01		create input blob
+2023-02-20/12:24:02		created  blob
+2023-02-20/12:24:02		set input blob for the network
+2023-02-20/12:24:02		get the output layer names 
+2023-02-20/12:24:02		running inference through the network and and gathering predictions from output layers 
+2023-02-20/12:24:04		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/12:24:04		apply non-max suppression
+2023-02-20/12:24:04		running on each index
+2023-02-20/12:24:04		object-detection.jpg created
+2023-02-20/12:34:09		Starting Prediction
+2023-02-20/12:34:07		Starting Prediction
+2023-02-20/12:34:07		loading image
+2023-02-20/12:34:07		reading classes
+2023-02-20/12:34:07		generating classes
+2023-02-20/12:34:07		read pre-trained model and config file
+2023-02-20/12:34:08		create input blob
+2023-02-20/12:34:08		created  blob
+2023-02-20/12:34:08		set input blob for the network
+2023-02-20/12:34:08		get the output layer names 
+2023-02-20/12:34:08		running inference through the network and and gathering predictions from output layers 
+2023-02-20/12:34:09		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/12:34:09		apply non-max suppression
+2023-02-20/12:34:09		Error Occured 'NoneType' object is not callable
+2023-02-20/12:37:20		Starting Prediction
+2023-02-20/12:37:18		Starting Prediction
+2023-02-20/12:37:18		loading image
+2023-02-20/12:37:18		reading classes
+2023-02-20/12:37:18		generating classes
+2023-02-20/12:37:18		read pre-trained model and config file
+2023-02-20/12:37:19		create input blob
+2023-02-20/12:37:19		created  blob
+2023-02-20/12:37:19		set input blob for the network
+2023-02-20/12:37:19		get the output layer names 
+2023-02-20/12:37:19		running inference through the network and and gathering predictions from output layers 
+2023-02-20/12:37:20		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/12:37:20		apply non-max suppression
+2023-02-20/12:37:20		Error Occured 'NoneType' object has no attribute 'boxes'
+2023-02-20/13:01:35		Starting Prediction
+2023-02-20/13:01:29		Starting Prediction
+2023-02-20/13:01:29		loading image
+2023-02-20/13:01:29		reading classes
+2023-02-20/13:01:29		generating classes
+2023-02-20/13:01:29		read pre-trained model and config file
+2023-02-20/13:01:33		create input blob
+2023-02-20/13:01:34		created  blob
+2023-02-20/13:01:34		set input blob for the network
+2023-02-20/13:01:34		get the output layer names 
+2023-02-20/13:01:34		running inference through the network and and gathering predictions from output layers 
+2023-02-20/13:01:35		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/13:01:35		apply non-max suppression
+2023-02-20/13:01:35		Error Occured 'NoneType' object has no attribute 'boxes'
+2023-02-20/13:09:06		Starting Prediction
+2023-02-20/13:09:04		Starting Prediction
+2023-02-20/13:09:04		loading image
+2023-02-20/13:09:04		reading classes
+2023-02-20/13:09:04		generating classes
+2023-02-20/13:09:04		read pre-trained model and config file
+2023-02-20/13:09:06		create input blob
+2023-02-20/13:09:06		created  blob
+2023-02-20/13:09:06		set input blob for the network
+2023-02-20/13:09:06		get the output layer names 
+2023-02-20/13:09:06		running inference through the network and and gathering predictions from output layers 
+2023-02-20/13:09:06		Error Occured Unknown C++ exception from OpenCV code
+2023-02-20/13:09:06		apply non-max suppression
+2023-02-20/13:09:06		running on each index
+2023-02-20/13:09:06		object-detection.jpg created
+2023-02-20/13:54:23		Starting Prediction
+2023-02-20/13:54:24		Starting Prediction
+2023-02-20/13:54:24		Starting Prediction
+2023-02-20/13:54:23		Starting Prediction
+2023-02-20/13:54:23		draw bounding box on the detected object with class name 
+2023-02-20/13:54:23		draw bounding box on the detected object with class name 
+2023-02-20/13:54:24		draw bounding box on the detected object with class name 
+2023-02-20/13:53:54		Starting Prediction
+2023-02-20/13:53:54		loading image
+2023-02-20/13:53:54		reading classes
+2023-02-20/13:53:54		generating classes
+2023-02-20/13:53:54		read pre-trained model and config file
+2023-02-20/13:54:02		create input blob
+2023-02-20/13:54:05		created  blob
+2023-02-20/13:54:05		set input blob for the network
+2023-02-20/13:54:05		get the output layer names 
+2023-02-20/13:54:05		running inference through the network and and gathering predictions from output layers 
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		boxes list filled
+2023-02-20/13:54:23		apply non-max suppression
+2023-02-20/13:54:23		running on each index
+2023-02-20/13:54:23		running on 11 index,
+2023-02-20/13:54:23		running on 6 index,
+2023-02-20/13:54:24		running on 0 index,
+2023-02-20/13:54:24		object-detection.jpg created

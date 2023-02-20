@@ -1,0 +1,135 @@
+2023-02-19/20:33:03		Starting Prediction
+2023-02-19/20:33:03		loading image
+2023-02-19/20:33:03		reading classes
+2023-02-19/20:33:03		generating classes
+2023-02-19/20:33:03		read pre-trained model and config file
+2023-02-19/20:33:03		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:33:12		Starting Prediction
+2023-02-19/20:33:12		loading image
+2023-02-19/20:33:12		reading classes
+2023-02-19/20:33:12		generating classes
+2023-02-19/20:33:12		read pre-trained model and config file
+2023-02-19/20:33:12		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:35:42		Starting Prediction
+2023-02-19/20:35:42		loading image
+2023-02-19/20:35:42		reading classes
+2023-02-19/20:35:42		generating classes
+2023-02-19/20:35:42		read pre-trained model and config file
+2023-02-19/20:35:42		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:40:11		Starting Prediction
+2023-02-19/20:40:11		loading image
+2023-02-19/20:40:11		reading classes
+2023-02-19/20:40:11		generating classes
+2023-02-19/20:40:11		read pre-trained model and config file
+2023-02-19/20:40:11		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:40:16		Starting Prediction
+2023-02-19/20:40:16		loading image
+2023-02-19/20:40:17		reading classes
+2023-02-19/20:40:17		generating classes
+2023-02-19/20:40:17		read pre-trained model and config file
+2023-02-19/20:40:17		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:41:03		Starting Prediction
+2023-02-19/20:41:03		loading image
+2023-02-19/20:41:03		reading classes
+2023-02-19/20:41:03		generating classes
+2023-02-19/20:41:03		read pre-trained model and config file
+2023-02-19/20:41:03		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:41:17		Starting Prediction
+2023-02-19/20:41:17		loading image
+2023-02-19/20:41:17		reading classes
+2023-02-19/20:41:17		generating classes
+2023-02-19/20:41:17		read pre-trained model and config file
+2023-02-19/20:41:17		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:41:59		Starting Prediction
+2023-02-19/20:41:59		loading image
+2023-02-19/20:41:59		reading classes
+2023-02-19/20:41:59		generating classes
+2023-02-19/20:41:59		read pre-trained model and config file
+2023-02-19/20:41:59		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:42:08		Starting Prediction
+2023-02-19/20:42:08		loading image
+2023-02-19/20:42:08		reading classes
+2023-02-19/20:42:08		generating classes
+2023-02-19/20:42:08		read pre-trained model and config file
+2023-02-19/20:42:08		Error Occured OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:217: error: (-212:Parsing error) Failed to parse NetParameter file: yolo3.weights in function 'cv::dnn::dnn4_v20221220::readNetFromDarknet'
+
+2023-02-19/20:47:24		Starting Prediction
+2023-02-19/20:47:24		loading image
+2023-02-19/20:47:24		reading classes
+2023-02-19/20:47:24		generating classes
+2023-02-19/20:47:24		read pre-trained model and config file
+2023-02-19/20:47:26		create input blob
+2023-02-19/20:47:26		created  blob
+2023-02-19/20:47:26		set input blob for the network
+2023-02-19/20:47:32		Starting Prediction
+2023-02-19/20:47:32		loading image
+2023-02-19/20:47:32		reading classes
+2023-02-19/20:47:32		generating classes
+2023-02-19/20:47:32		read pre-trained model and config file
+2023-02-19/20:47:33		create input blob
+2023-02-19/20:47:33		created  blob
+2023-02-19/20:47:33		set input blob for the network
+2023-02-19/20:50:42		Starting Prediction
+2023-02-19/20:50:42		loading image
+2023-02-19/20:50:43		reading classes
+2023-02-19/20:50:43		generating classes
+2023-02-19/20:50:43		read pre-trained model and config file
+2023-02-19/20:50:48		create input blob
+2023-02-19/20:50:48		created  blob
+2023-02-19/20:50:48		set input blob for the network
+2023-02-19/20:57:48		Starting Prediction
+2023-02-19/20:57:48		loading image
+2023-02-19/20:57:48		reading classes
+2023-02-19/20:57:48		generating classes
+2023-02-19/20:57:48		read pre-trained model and config file
+2023-02-19/20:57:56		create input blob
+2023-02-19/20:57:56		created  blob
+2023-02-19/20:57:56		set input blob for the network
+2023-02-19/21:19:59		Starting Prediction
+2023-02-19/21:19:59		loading image
+2023-02-19/21:19:59		reading classes
+2023-02-19/21:19:59		generating classes
+2023-02-19/21:20:00		read pre-trained model and config file
+2023-02-19/21:20:07		create input blob
+
+2023-02-20/14:40:20		Starting Prediction
+2023-02-20/14:56:54		Starting Prediction
+2023-02-20/15:06:54		Starting Prediction
+2023-02-20/15:27:54		Starting Prediction
+2023-02-20/15:33:45		Starting Prediction
+2023-02-20/15:38:29		Starting Prediction
+2023-02-20/15:38:29		loading image
+2023-02-20/15:38:29		reading classes
+2023-02-20/15:38:29		generating classes
+2023-02-20/15:38:29		read pre-trained model and config file
+2023-02-20/15:38:33		create input blob
+2023-02-20/15:38:33		created  blob
+2023-02-20/15:38:33		set input blob for the network
+2023-02-20/15:38:33		get the output layer names 
+2023-02-20/15:38:34		running inference through the network and and gathering predictions from output layers 
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		boxes list filled
+2023-02-20/15:38:45		apply non-max suppression
+2023-02-20/15:38:45		running on each index
+2023-02-20/15:38:45		running on 11 index,
+2023-02-20/15:38:45		Error Occured __init__() takes 2 positional arguments but 5 were given
